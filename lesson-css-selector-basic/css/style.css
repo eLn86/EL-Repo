@@ -1,0 +1,71 @@
+.mammal {
+  color: red;
+  background-color: lavenderBlush;
+  font-weight: bold;
+}
+
+.bird {
+  color: blue;
+  background-color: lightGray;
+  font-style: italic;
+}
+
+.fish {
+  color: orange;
+  background-color: lightYellow;
+  text-decoration: underline;
+}
+
+.mammal#mouse {
+  color: gray;
+}
+
+.bird#canary {
+  color:orangeRed;
+}
+
+.bird#penguin {
+  color: black;
+}
+
+.fish#salmon {
+  color: salmon;
+}
+
+.mammal#cat {
+  color: sienna;
+}
+
+.fish#goldfish{
+  color: gold;
+}
+
+.mammal#dog{
+  color: tan;
+}
+
+.mammal#sheep{
+  color: steelBlue;
+}
+
+.bird#parakeet{
+  color: lime;
+}
+
+.fish#tuna {
+  color: purple;
+}
+
+ul {
+  border: 3px dotted plum;
+  border-radius: 5px;
+}
+
+li {
+  border-top: 3px solid seagreen;
+}
+
+div {
+  background-color: red;
+  border: 25px dashed tan;
+}
