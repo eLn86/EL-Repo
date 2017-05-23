@@ -10,6 +10,9 @@ function lengths(array) {
   return array;
 }
 
+var myArray = ["asfj","aslfjaslk","abc","askjfhk"];
+console.log(lengths(myArray));
+
 // 2. Write a Javascript function called `transmogrifier`
 // This function should accept three arguments, which you can assume will be numbers.
 // Your function should return the "transmogrified" result
